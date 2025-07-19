@@ -1,1 +1,0 @@
-# FastAPI backend con endpoints deportivos
